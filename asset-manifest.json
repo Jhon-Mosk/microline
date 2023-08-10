@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/microline/static/css/main.e6c13ad2.css",
+    "main.js": "/microline/static/js/main.6528e728.js",
+    "static/js/787.02910954.chunk.js": "/microline/static/js/787.02910954.chunk.js",
+    "index.html": "/microline/index.html",
+    "main.e6c13ad2.css.map": "/microline/static/css/main.e6c13ad2.css.map",
+    "main.6528e728.js.map": "/microline/static/js/main.6528e728.js.map",
+    "787.02910954.chunk.js.map": "/microline/static/js/787.02910954.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6528e728.js"
+  ]
+}
